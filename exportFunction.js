@@ -1,4 +1,4 @@
-let greetings = function (name) {
-  console.log("hello" + name);
+let greetings = function () {
+  return "This is a Function";
 };
 module.exports = greetings();

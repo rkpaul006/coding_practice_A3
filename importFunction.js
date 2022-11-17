@@ -1,3 +1,3 @@
 const greetings = require("./exportFunction.js");
 
-console.log(greetings(ravi));
+console.log(greetings());
